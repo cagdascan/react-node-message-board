@@ -1,0 +1,16 @@
+.message {
+  border-radius: 24px;
+  background-color: #e0e0ff;
+  border: 1px solid #e0e0ff;
+  padding: 12px;
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.timestamp {
+  position: absolute;
+  right: 10px;
+  bottom: 4px;
+  font-size: 10px;
+  margin-top: 10px;
+}

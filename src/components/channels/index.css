@@ -1,0 +1,11 @@
+.channel {
+  height: 60px;
+  line-height: 60px;
+  padding: 12px;
+  cursor: pointer;
+  border-bottom: 1px solid #efefef;
+}
+
+.active {
+  background-color: #efefef;
+}
